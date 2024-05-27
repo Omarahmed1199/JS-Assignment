@@ -1,0 +1,12 @@
+section {
+    background-image:url(newspaper-background-7f3cdcadjn7tr55r.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+h1,
+h3,
+p {
+    color:azure;
+}
